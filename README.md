@@ -82,7 +82,7 @@ Ideal für Level-Designer:innen, die schnell strukturierte oder natürliche Anor
 
 ---
 
-## 📸 Vorschau (optional)
+## 📸 Vorschau
 
 <img width="2557" height="1388" alt="image" src="https://github.com/user-attachments/assets/a93db5b4-37fb-4a43-82bf-6e3819e8eaee" />
 
